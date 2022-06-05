@@ -21,12 +21,12 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://reeltalk.club'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'ReelTalk'
+description: 'Homelab community & Media fans'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://forums.reeltalk.club/uploads/default/original/1X/3f4a5d98ccce023f840b065e3ac12cf2250d2540.png"
 
 # Pagination
 paginate: 5
@@ -38,8 +38,10 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Common Parts
+  url: /parts/
+- title: Forums
+  url: https://forums.reeltalk.club/
 
 # Footer nav
 navigation_footer:
