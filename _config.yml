@@ -27,6 +27,7 @@ title: 'ReelTalk'
 description: 'Homelab community & Media fans'
 permalink: pretty
 logo: "https://forums.reeltalk.club/uploads/default/original/1X/3f4a5d98ccce023f840b065e3ac12cf2250d2540.png"
+author: ReelTalk is an online community that produces in-depth guides around building and managing media servers. ReelTalk is supported by donations from our community and through our affiliate links as Amazon and eBay affiliates. We earn revenue from qualifying purchases.
 
 # Pagination
 paginate: 5
