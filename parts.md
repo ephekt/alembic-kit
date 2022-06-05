@@ -1,3 +1,6 @@
+---
+title: Common Parts
+---
 
 As you work through ReelTalk guides, we wanted to provide you with a list of parts we've commonly used when building our servers and setups. Parts are not always in stock, so consider this a general list. We only list parts we've used. This is a growing list. If you see a part that is no longer being sold or is out of stock and you're in need, post on the forums and we'll look for alternatives.
 
